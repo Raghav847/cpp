@@ -1,0 +1,29 @@
+# Compiled executables output directory
+bin/
+
+# Stray executables (clang++ default output when -o is omitted)
+a.out
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Debug info / symbols
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# macOS
+.DS_Store
